@@ -1,0 +1,91 @@
+# Frontend and Node
+../ecommerce-frontend/
+node_modules/
+
+# Python related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+.env.*
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.pytest_cache/
+*.pot
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Other isolated projects
+../new-retail/
+../retail_dynamic_pricing_final/
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Database and logs
+*.db
+*.sqlite
+*.sqlite3
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Documentation
+*.md
+README.md
+SETUP.md
+PROMOTION_BUG_FIX_REPORT.md
+
+# Backup and restore scripts
+backup_db.sh
+restore_db.sh
+
+# Misc
+.kiro/
+.zencoder/
+.zenflow/
+.langgraph_api/
+langgraph.json
+server.log
+=0.1.0
+=0.2.0
+
+# Local database files
+ecommerce.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Docker files (optional, include if building from parent directory)
+docker-compose.yml

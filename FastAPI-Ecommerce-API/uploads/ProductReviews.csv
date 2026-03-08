@@ -1,0 +1,49 @@
+Review_ID,Category,Product_Name,Price,Rating,Title,Content,Verified_Purchase
+R2001,Electronics,Air freshner,$255.0,4,Excellent Product!,I bought this Air freshner for $255.0. I am very happy because the sleek design. Highly recommend.,False
+R2002,Electronics,Air freshner,$255.0,4,Excellent Product!,I bought this Air freshner for $255.0. I am very happy because the amazing scent. Highly recommend.,False
+R2003,Electronics,Air freshner,$255.0,2,Not worth it,I bought this Air freshner for $255.0. I was disappointed because it's weak scent. I wouldn't buy it again.,True
+R2004,Electronics,Logitech M196 Mouse,$35.0,4,Excellent Product!,I bought this Logitech M196 Mouse for $35.0. I am very happy because the clicks are silent. Highly recommend.,True
+R2005,Electronics,Logitech M196 Mouse,$35.0,5,Excellent Product!,I bought this Logitech M196 Mouse for $35.0. I am very happy because the smooth scrolling. Highly recommend.,False
+R2006,Electronics,Logitech M196 Mouse,$35.0,2,Not worth it,I bought this Logitech M196 Mouse for $35.0. I was disappointed because it's plastic texture. I wouldn't buy it again.,True
+R2007,Electronics,table lamp,$45.0,4,Excellent Product!,I bought this table lamp for $45.0. I am very happy because the modern aesthetic. Highly recommend.,False
+R2008,Electronics,table lamp,$45.0,4,Excellent Product!,I bought this table lamp for $45.0. I am very happy because the modern aesthetic. Highly recommend.,False
+R2009,Electronics,table lamp,$45.0,1,Not worth it,I bought this table lamp for $45.0. I was disappointed because it's short cable. I wouldn't buy it again.,False
+R2010,Electronics,keyboard,$40.0,4,Excellent Product!,I bought this keyboard for $40.0. I am very happy because the no lag. Highly recommend.,True
+R2011,Electronics,keyboard,$40.0,4,Excellent Product!,I bought this keyboard for $40.0. I am very happy because the durable build. Highly recommend.,False
+R2012,Electronics,keyboard,$40.0,2,Not worth it,I bought this keyboard for $40.0. I was disappointed because it's very loud typing. I wouldn't buy it again.,False
+R2013,Electronics,usb cable,$10.0,4,Excellent Product!,I bought this usb cable for $10.0. I am very happy because the tight fit. Highly recommend.,False
+R2014,Electronics,usb cable,$10.0,4,Excellent Product!,I bought this usb cable for $10.0. I am very happy because the braided and tough. Highly recommend.,True
+R2015,Electronics,usb cable,$10.0,1,Not worth it,I bought this usb cable for $10.0. I was disappointed because it's very short. I wouldn't buy it again.,False
+R2016,Electronics,analog watch,$47.0,4,Excellent Product!,I bought this analog watch for $47.0. I am very happy because the comfortable strap. Highly recommend.,True
+R2017,Electronics,analog watch,$47.0,5,Excellent Product!,I bought this analog watch for $47.0. I am very happy because the comfortable strap. Highly recommend.,True
+R2018,Electronics,analog watch,$47.0,1,Not worth it,I bought this analog watch for $47.0. I was disappointed because it's strap is stiff. I wouldn't buy it again.,False
+R2019,Health & Beauty,CeraVe Moisturizing Cream,$20.0,5,Excellent Product!,I bought this CeraVe Moisturizing Cream for $20.0. I am very happy because the non-greasy. Highly recommend.,True
+R2020,Health & Beauty,CeraVe Moisturizing Cream,$20.0,5,Excellent Product!,I bought this CeraVe Moisturizing Cream for $20.0. I am very happy because the non-greasy. Highly recommend.,True
+R2021,Health & Beauty,CeraVe Moisturizing Cream,$20.0,2,Not worth it,I bought this CeraVe Moisturizing Cream for $20.0. I was disappointed because it's sticky and heavy. I wouldn't buy it again.,False
+R2022,Health & Beauty,Herbal Essences,$15.0,5,Excellent Product!,I bought this Herbal Essences for $15.0. I am very happy because the great lather. Highly recommend.,True
+R2023,Health & Beauty,Herbal Essences,$15.0,4,Excellent Product!,I bought this Herbal Essences for $15.0. I am very happy because the leaves hair soft. Highly recommend.,True
+R2024,Health & Beauty,Herbal Essences,$15.0,2,Not worth it,I bought this Herbal Essences for $15.0. I was disappointed because it's contains sulfates. I wouldn't buy it again.,True
+R2025,Health & Beauty,Centrum Women tablets,$20.0,4,Excellent Product!,I bought this Centrum Women tablets for $20.0. I am very happy because the easy to swallow. Highly recommend.,False
+R2026,Health & Beauty,Centrum Women tablets,$20.0,4,Excellent Product!,I bought this Centrum Women tablets for $20.0. I am very happy because the easy to swallow. Highly recommend.,True
+R2027,Health & Beauty,Centrum Women tablets,$20.0,1,Not worth it,I bought this Centrum Women tablets for $20.0. I was disappointed because it's metallic aftertaste. I wouldn't buy it again.,False
+R2028,Health & Beauty,WishCare Tinted Lipbalm,$7.0,5,Excellent Product!,I bought this WishCare Tinted Lipbalm for $7.0. I am very happy because the very moisturizing. Highly recommend.,True
+R2029,Health & Beauty,WishCare Tinted Lipbalm,$7.0,4,Excellent Product!,I bought this WishCare Tinted Lipbalm for $7.0. I am very happy because the very moisturizing. Highly recommend.,False
+R2030,Health & Beauty,WishCare Tinted Lipbalm,$7.0,1,Not worth it,I bought this WishCare Tinted Lipbalm for $7.0. I was disappointed because it's no color payoff. I wouldn't buy it again.,False
+R2031,Furniture & Decor,bedsheet,$30.0,5,Excellent Product!,I bought this bedsheet for $30.0. I am very happy because the breathable. Highly recommend.,False
+R2032,Furniture & Decor,bedsheet,$30.0,5,Excellent Product!,I bought this bedsheet for $30.0. I am very happy because the soft cotton. Highly recommend.,True
+R2033,Furniture & Decor,bedsheet,$30.0,1,Not worth it,I bought this bedsheet for $30.0. I was disappointed because it's rough texture. I wouldn't buy it again.,True
+R2034,Furniture & Decor,wall clock,$70.0,4,Excellent Product!,I bought this wall clock for $70.0. I am very happy because the large numbers. Highly recommend.,True
+R2035,Furniture & Decor,wall clock,$70.0,5,Excellent Product!,I bought this wall clock for $70.0. I am very happy because the totally silent. Highly recommend.,False
+R2036,Furniture & Decor,wall clock,$70.0,1,Not worth it,I bought this wall clock for $70.0. I was disappointed because it's plastic frame. I wouldn't buy it again.,False
+R2037,Furniture & Decor,watering can,$28.0,4,Excellent Product!,I bought this watering can for $28.0. I am very happy because the no leaks. Highly recommend.,True
+R2038,Furniture & Decor,watering can,$28.0,5,Excellent Product!,I bought this watering can for $28.0. I am very happy because the easy to carry. Highly recommend.,True
+R2039,Furniture & Decor,watering can,$28.0,1,Not worth it,I bought this watering can for $28.0. I was disappointed because it's small capacity. I wouldn't buy it again.,True
+R2040,Furniture & Decor,pruning shears,$30.0,5,Excellent Product!,I bought this pruning shears for $30.0. I am very happy because the sharp blades. Highly recommend.,False
+R2041,Furniture & Decor,pruning shears,$30.0,5,Excellent Product!,I bought this pruning shears for $30.0. I am very happy because the sharp blades. Highly recommend.,False
+R2042,Furniture & Decor,pruning shears,$30.0,2,Not worth it,I bought this pruning shears for $30.0. I was disappointed because it's locked up often. I wouldn't buy it again.,False
+R2043,Housewares,kitchen knife,$60.0,5,Excellent Product!,I bought this kitchen knife for $60.0. I am very happy because the premium steel. Highly recommend.,False
+R2044,Housewares,kitchen knife,$60.0,4,Excellent Product!,I bought this kitchen knife for $60.0. I am very happy because the well balanced. Highly recommend.,False
+R2045,Housewares,kitchen knife,$60.0,1,Not worth it,I bought this kitchen knife for $60.0. I was disappointed because it's handle felt loose. I wouldn't buy it again.,False
+R2046,Wearables,Apple Watch Ultra,$50.0,4,Excellent Product!,I bought this Apple Watch Ultra for $50.0. I am very happy because the bright screen. Highly recommend.,True
+R2047,Wearables,Apple Watch Ultra,$50.0,4,Excellent Product!,I bought this Apple Watch Ultra for $50.0. I am very happy because the rugged build. Highly recommend.,True
+R2048,Wearables,Apple Watch Ultra,$50.0,2,Not worth it,I bought this Apple Watch Ultra for $50.0. I was disappointed because it's too bulky for me. I wouldn't buy it again.,False

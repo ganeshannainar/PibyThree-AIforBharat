@@ -1,0 +1,83 @@
+# ============================================================
+# Root .gitignore — PibyThree AI for Bharat
+# ============================================================
+
+# Extra files at repo root (not part of submission)
+dump.sql
+*.sql
+PROMOTION_BUG_FIX_REPORT.md
+new-retail/
+retail_dynamic_pricing_final/
+.kiro/
+.zencoder/
+.zenflow/
+# Oddly-named shell command file (not a real file)
+s\ psql\ *
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE / editors
+.vscode/
+.idea/
+*.iml
+
+# Environment files — NEVER commit these
+.env
+*.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+lightning_logs/
+
+# Docker volumes / secrets
+docker-compose.override.yml
+
+# Misc uploads / generated files (keep folder structure via .gitkeep)
+uploads/products/*
+uploads/promotions/*
+!uploads/products/.gitkeep
+!uploads/promotions/.gitkeep
+
+# Database backups
+db_backup/backups/
+*.sql.gz
+
+# LangGraph internals
+.langgraph_api/
+
+# Coverage
+.coverage
+htmlcov/

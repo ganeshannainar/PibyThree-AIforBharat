@@ -1,0 +1,90 @@
+# -----------------------------
+# Core FastAPI stack
+# -----------------------------
+fastapi>=0.110.0
+uvicorn[standard]>=0.30.0
+starlette
+python-multipart
+email-validator
+pydantic>=2.7.0
+pydantic-settings
+python-dotenv
+
+# -----------------------------
+# Database
+# -----------------------------
+SQLAlchemy>=2.0
+psycopg2-binary
+alembic
+greenlet
+
+# -----------------------------
+# Authentication / Security
+# -----------------------------
+bcrypt==4.0.1
+passlib[bcrypt]==1.7.4
+python-jose[cryptography]
+
+# -----------------------------
+# AWS / Bedrock
+# -----------------------------
+boto3
+botocore
+
+# -----------------------------
+# LangChain / Agent Framework
+# -----------------------------
+langchain
+langchain-core
+langchain-community
+langchain-aws
+langgraph
+langgraph-cli
+
+# -----------------------------
+# Vector DB / embeddings
+# -----------------------------
+faiss-cpu
+sentence-transformers
+langchain-chroma
+chromadb
+
+# -----------------------------
+# LLM Providers
+# -----------------------------
+anthropic
+openai
+litellm
+langchain_litellm
+
+# -----------------------------
+# ML for dynamic pricing
+# -----------------------------
+xgboost
+scikit-learn
+pandas
+numpy<2.0
+
+# -----------------------------
+# HTTP clients
+# -----------------------------
+requests
+httpx
+aiohttp
+
+# -----------------------------
+# Utility libraries
+# -----------------------------
+python-dateutil
+tqdm
+PyYAML
+
+# -----------------------------
+# Google search integration
+# -----------------------------
+google-search-results
+
+# -----------------------------
+# Logging / monitoring
+# -----------------------------
+langfuse

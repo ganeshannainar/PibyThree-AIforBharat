@@ -1,0 +1,10 @@
+{
+  "$schema": "https://langchain-ai.github.io/langgraph/schema.json",
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "ecommerce_agent": "./app/workflows/graph.py:app"
+  },
+  "env": ".env"
+}
